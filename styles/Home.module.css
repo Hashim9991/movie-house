@@ -1,0 +1,13 @@
+.hero {
+    text-align: center;
+    padding: 4rem 0;
+  }
+  
+  .movieGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+  }
+  
+  /* Add similar files for other pages (Movies.module.css, etc.) */
